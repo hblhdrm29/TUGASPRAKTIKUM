@@ -1,0 +1,58 @@
+[
+    {
+        "Maskapai": "Boing6969",
+        "Asal_penerbangan": "Soekarno-Hatta (CGK)",
+        "tujuan_penerbangan": "Hasanuddin (UPG)",
+        "Harga_tiket": "1700000",
+        "Pajak": 100000,
+        "Total_harga": 1800000
+    },
+    {
+        "Maskapai": "Boing8080",
+        "Asal_penerbangan": "Juanda (SUB)",
+        "tujuan_penerbangan": "Inanwatan (INX)",
+        "Harga_tiket": "40000000",
+        "Pajak": 1330000,
+        "Total_harga": 41330000
+    },
+    {
+        "Maskapai": "Lion-Fish",
+        "Asal_penerbangan": "Husein Sastranegara (BDO)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "5000000",
+        "Pajak": 150000,
+        "Total_harga": 5150000
+    },
+    {
+        "Maskapai": "Eagle",
+        "Asal_penerbangan": "Soekarno-Hatta (CGK)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "70000000",
+        "Pajak": 1000000,
+        "Total_harga": 80000000
+    },
+    {
+        "Maskapai": "hdhmmzFlight",
+        "Asal_penerbangan": "Husein Sastranegara (BDO)",
+        "tujuan_penerbangan": "Inanwatan (INX)",
+        "Harga_tiket": "8000000",
+        "Pajak": 200000,
+        "Total_harga": 8200000
+    },
+    {
+        "Maskapai": "Larry-2969",
+        "Asal_penerbangan": "Juanda (SUB)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "Gratis",
+        "Pajak": 0,
+        "Total_harga": 0
+    },
+    {
+        "Maskapai": "Boing6969",
+        "Asal_penerbangan": "Soekarno-Hatta (CGK)",
+        "tujuan_penerbangan": "Hasanuddin (UPG)",
+        "Harga_tiket": "1700000",
+        "Pajak": 0,
+        "Total_harga": 1700000
+    }
+]
